@@ -13,6 +13,5 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191023173517596.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzY3NjQ3,size_16,color_FFFFFF,t_70)
 ## 3.代码块
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191023173841530.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzY3NjQ3,size_16,color_FFFFFF,t_70)
-## 4.实验成果
-
-[B站](https://www.bilibili.com/video/av73150844/)：https://www.bilibili.com/video/av73150844/![在这里插入图片描述](https://img-blog.csdnimg.cn/20191023175949759.gif)
+## 4.实验成果  
+[B站](https://www.bilibili.com/video/av73150844/)：https://www.bilibili.com/video/av73150844/  
