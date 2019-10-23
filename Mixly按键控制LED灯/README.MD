@@ -15,3 +15,5 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191023173841530.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzY3NjQ3,size_16,color_FFFFFF,t_70)
 ## 4.实验成果  
 [B站](https://www.bilibili.com/video/av73150844/)：https://www.bilibili.com/video/av73150844/  
+https://github.com/liangyingshi0/Arduino/blob/master/Mixly%E6%8C%89%E9%94%AE%E6%8E%A7%E5%88%B6LED%E7%81%AF/Photo/%E6%95%88%E6%9E%9C.gif?raw=true
+![在这里插入图片描述](https://github.com/liangyingshi0/Arduino/blob/master/Mixly%E6%8C%89%E9%94%AE%E6%8E%A7%E5%88%B6LED%E7%81%AF/Photo/%E6%95%88%E6%9E%9C.gif?raw=true)
