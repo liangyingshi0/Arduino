@@ -1,7 +1,8 @@
 # 说明  
-# 实验材料与环境
-硬件：Arduino、LED
-软件：Mixly IDE
+我的博客：https://blog.csdn.net/qq_42767647/article/details/102704751  
+# 实验材料与环境  
+硬件：Arduino、LED  
+软件：Mixly IDE  
 # 【实验】实现按键控制LED灯
 ## 1.软硬件连接  
 根据需求，把按键与灯接入相关接口。  
