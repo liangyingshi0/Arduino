@@ -144,4 +144,4 @@ void loop(){
 
 ## 4.实验成果
 [B站](https://www.bilibili.com/video/av73507767/)：https://www.bilibili.com/video/av73507767/  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191027154148506.gif)
+(https://raw.githubusercontent.com/liangyingshi0/Arduino/master/Mixly%E6%99%BA%E8%83%BD%E9%97%A8%E7%A6%81/Photo/%E6%95%88%E6%9E%9C.gif)
