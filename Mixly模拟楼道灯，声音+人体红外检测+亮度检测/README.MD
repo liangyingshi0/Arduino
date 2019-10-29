@@ -9,7 +9,7 @@
 灯接D9号接口  
 声音检测模块：数据接A3号口；vcc接5V，GND对应GND  
 光敏传感器：数据接A5接口，+接5V，-对应GND  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191029211927846.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzY3NjQ3,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://raw.githubusercontent.com/liangyingshi0/Arduino/master/Mixly%E6%A8%A1%E6%8B%9F%E6%A5%BC%E9%81%93%E7%81%AF%EF%BC%8C%E5%A3%B0%E9%9F%B3%2B%E4%BA%BA%E4%BD%93%E7%BA%A2%E5%A4%96%E6%A3%80%E6%B5%8B%2B%E4%BA%AE%E5%BA%A6%E6%A3%80%E6%B5%8B/photo/%E4%BA%BA%E4%BD%93%2B%E5%A3%B0%E9%9F%B3%2B%E4%BA%AE%E5%BA%A6.jpg)
 ## 2.图形化编程块
 人体红外：0是没人，1是检测到人。  
 声音探测我这里设为超过65就亮起。  
