@@ -8,7 +8,7 @@
 我这里是：  
 人体红外感应模块：数据接D3号口；vcc接5V，GND对应GND  
 灯接D9号接口  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191029193521845.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzY3NjQ3,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://raw.githubusercontent.com/liangyingshi0/Arduino/master/Mixly%E4%BA%BA%E4%BD%93%E7%BA%A2%E5%A4%96%E6%A3%80%E6%B5%8B%E7%81%AF/photo/%E4%BA%BA%E4%BD%93.jpg)
 ## 2.图形化编程块
 人体红外：0是没人，1是检测到人。  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191029194332816.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzY3NjQ3,size_16,color_FFFFFF,t_70)
