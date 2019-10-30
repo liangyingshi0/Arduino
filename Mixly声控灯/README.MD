@@ -8,7 +8,7 @@
 我这里是：  
 灯接D9号接口  
 声音检测模块：数据接A3号口；vcc接5V，GND对应GND  
-![在这里插入图片描述](https://raw.githubusercontent.com/liangyingshi0/Arduino/master/Mixly%E5%A3%B0%E6%8E%A7%E7%81%AF/photo/%E5%A3%B0%E9%9F%B3.jpg)
+![image](https://raw.githubusercontent.com/liangyingshi0/Arduino/master/Mixly%E5%A3%B0%E6%8E%A7%E7%81%AF/photo/%E5%A3%B0%E9%9F%B3.jpg)
 ## 2.图形化编程块
 声音探测我这里设为超过65就亮起。  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191029205106334.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNzY3NjQ3,size_16,color_FFFFFF,t_70)
